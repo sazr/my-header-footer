@@ -1,0 +1,40 @@
+
+#wpadminbar .vd-admin-bar-btn {
+	background-color: #e41b51 !important;
+	font-weight: 900 !important;
+}
+
+#wpadminbar .vd-admin-bar-btn .ab-item { 
+	font-weight: 700 !important;
+	color: #fff !important;
+	font-family: sans-serif !important;
+}
+
+#wpadminbar .vd-admin-bar-btn .ab-item:hover,
+#wpadminbar .vd-admin-bar-btn .ab-item:active { 
+	font-weight: 700 !important;
+	color: #fff !important;
+	font-family: sans-serif !important;
+	background-color: #ff0072 !important;
+	text-decoration-color: none !important;
+}
+
+#wpadminbar .vd-admin-bar-btn .ab-sub-wrapper {
+	background-color: #e41b51 !important;
+	font-weight: 900 !important;
+}
+
+#wpadminbar .vd-admin-bar-btn .ab-sub-wrapper .ab-item { 
+	font-weight: 700 !important;
+	color: #fff;
+}
+
+.vd-go-pro {
+	color: #FF8C00 !important; 
+	font-weight: 700 !important;
+}
+
+#adminmenu .wp-submenu li a[href*="visualdesigner.io"] {
+	color: #FF8C00 !important; 
+	font-weight: 300 !important;
+}

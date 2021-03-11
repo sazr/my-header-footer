@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 187 187" width="187" height="187">
+	<defs>
+		<image width="137" height="145" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIkAAACRCAMAAADAf2sNAAAAAXNSR0IB2cksfwAAAP9QTFRFAAAAnJycnqKnnqOolKGhnqOonaOnnaOnnqOolKGhnqKnnJycnqOnmqGonaOmmJ+lnaKnnKOjnaKonaOonZ2jnqGnnaGnnqKnnqOonqOonqOonqOonqOonqOonqOonqOonqOonqOonqOonqOonqOonKKmnqOonqOonqOonqOonqOnnqOnmqGonaConaOmnaOmnqOonqOonqOonqOonqOom6OmnqGnnqOonqOonqOonqOonqOonqOonqOonqOonqOonaGnnKKmnqOonqOonaGnnaKonZ2jnqKnnqKnnqOonaKnnqOonKGnnqOogICAnKGnnaKnnKGnl5+nnqGmnqGmrCfj9QAAAFV0Uk5TABKtxxP/rgAAAAAAAAAAAAAAAAAAAABjn6y5xdLfuKuSeVQuBwDdtpBbF9omABRTR75BlhEAVOxovThypg3adYCBkXFb2yclcZM80wAcAEZjYgBcAF58/JwAAANxSURBVHic7dppc9MwEAZgE9hWBCihJZA2CfSiB1cPCj2gpdz3zf//LciOnfqQ4rUka7eM328Ze5xnJHm9ShwEjnLB1YVs07p4iZowSguAB0VCeFAiCAdKDJEU4mU7BcCDkoLQUqZFNpe5QMgo7QKEiKKCCHGFC4SAooFcvdZASiEz17lAROcGE4iok6KBzKohQszVRdFBbmogtVHwkO74YKeOZYufmm7qcA0U/GLtZk5wvmxNIc7XijnEMaVaHcnH4QTZQRxSbCFC3GogDcQP5HZvfqE/GA4H/Tt3e4tLyyurVSH33EBaUMja+sbmfe8jooCEefAQDalvRP4XSPcRESS/RuTD0YSChzxGQqImuzoFD9mC9W0sxIBSBSKzs4uEVKZUhMg82cNBJOVpLZBn44P7BziIDJ5iApE5PMJB8BNkCJF5joKgKeYQgBfHGAiSYgMBONlVFjQTih1E5iUGIsqrrTUETnGQsnaheh05NxDDBqqBuIe8aiDnBbL1mgtEVlsVpKTbrwUCUGzkiCBwclwRMqW+ujVENglcIABv/EJOJ5x3xAUCh+jbt2YIwAEXCOzvMYHILZmfyloOGdU3FhDY4QIB2OYCgbdGkHfuIfnzgjYbiJhNf6SEiAxFDXnvB5KhCFJImqKQ+ISkKEWJBQS7Wc/8MZJQRJ5isViNIGNKXmJR0AwhCSUnoYDEFJGh0EBGlIzEB+SDAhJR0hIfkI+flBLxOZQklBqevkUIfFFCvo5eXPQJAfimhpxRLH5VrASBTQ0k+D4dSbxBYEMDiSk1QPJb0xgC6zpIRPEIgTUtJKR4hACsaiGq2N41EyCwwgUCy1wgsMQFAotcINDjAoF5S4j+N7TJ4AIEFrhAoM8FAgMuEBhygYSSMsiMF4icnVJIYRdWCwT6CIiSkv8CWwj8wEAUEueQnyWQaL+hoBBA1BTnkF8IiIpCBAmCTk5CBolHhQMkS8l/AX7v6wCSphBDztYKOSQZFQaQEYUFJKTk//4gggQBG0g+XutIA2kgNumygWiabO+Q4HdbSSndhCfBtIoVKAULBURJQUOcTY2GQgWJKYIBRFLmJrSUPiHJqAh6SIpCDRlTCu+PeIfElMJ7aASQiMIDIilcIIr84QLRUCggSgoNREGhghQodJAg+CuYQELK+OlICxlRIo0d5B9aRzo7166JBQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #9ea3a8;stroke-width: 22.2 } 
+	</style>
+	<path id="Layer 2" class="shp0" d="M94 173C49.76 173 14 137.24 14 93C14 48.76 49.76 13 94 13C138.24 13 174 48.76 174 93C174 137.24 138.24 173 94 173Z" />
+	<use id="Shape 12" href="#img1" x="48" y="-9" />
+</svg>
