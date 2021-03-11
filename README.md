@@ -1,5 +1,5 @@
 
-## My Header Footer: Take back control of your header and footer. 
+## My Header Footer: A WordPress Plugin to take back control of your header and footer. 
    
 #### Announcement: My Header Footer now has **Mega Menus** and **Dropdown Buttons!**    
    
